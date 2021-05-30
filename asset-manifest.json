@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/HexOcean-recruitment-exercise/static/css/main.64c28a7e.chunk.css",
+    "main.js": "/HexOcean-recruitment-exercise/static/js/main.30aa3f5c.chunk.js",
+    "main.js.map": "/HexOcean-recruitment-exercise/static/js/main.30aa3f5c.chunk.js.map",
+    "runtime-main.js": "/HexOcean-recruitment-exercise/static/js/runtime-main.dded0c30.js",
+    "runtime-main.js.map": "/HexOcean-recruitment-exercise/static/js/runtime-main.dded0c30.js.map",
+    "static/js/2.3e5ddd29.chunk.js": "/HexOcean-recruitment-exercise/static/js/2.3e5ddd29.chunk.js",
+    "static/js/2.3e5ddd29.chunk.js.map": "/HexOcean-recruitment-exercise/static/js/2.3e5ddd29.chunk.js.map",
+    "index.html": "/HexOcean-recruitment-exercise/index.html",
+    "static/css/main.64c28a7e.chunk.css.map": "/HexOcean-recruitment-exercise/static/css/main.64c28a7e.chunk.css.map",
+    "static/js/2.3e5ddd29.chunk.js.LICENSE.txt": "/HexOcean-recruitment-exercise/static/js/2.3e5ddd29.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dded0c30.js",
+    "static/js/2.3e5ddd29.chunk.js",
+    "static/css/main.64c28a7e.chunk.css",
+    "static/js/main.30aa3f5c.chunk.js"
+  ]
+}
